@@ -1,2 +1,2 @@
 def test_fist():
-    assert  4 > 2
+    assert 74 > 2
